@@ -83,7 +83,7 @@ class SingleLinkedList{
     public void list(){
         //定义一个节点指针
         HeroNode temp = headNode;
-//        List<HeroNode> list = new ArrayList<>();
+//        List<TreeNode> list = new ArrayList<>();
         //寻找next=null末尾节点
         while(true){
             if(temp.next==null){
@@ -96,13 +96,13 @@ class SingleLinkedList{
 //            }
         }
 //        //自定义list集合内部排序
-//        Collections.sort(list, new Comparator<HeroNode>() {
+//        Collections.sort(list, new Comparator<TreeNode>() {
 //            @Override
-//            public int compare(HeroNode o1, HeroNode o2) {
+//            public int compare(TreeNode o1, TreeNode o2) {
 //                return o1.no-o2.no;
 //            }
 //        });
-//        for(HeroNode node : list){
+//        for(TreeNode node : list){
 //            System.out.println(node);
 //        }
     }
@@ -244,7 +244,7 @@ class HeroNode{
 
     @Override
     public String toString() {
-        return "HeroNode{" +
+        return "TreeNode{" +
                 "no=" + no +
                 ", heroName='" + heroName + '\'' +
                 ", anotherName='" + anotherName + '\'' +
