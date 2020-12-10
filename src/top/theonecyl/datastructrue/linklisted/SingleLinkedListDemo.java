@@ -19,16 +19,18 @@ public class SingleLinkedListDemo {
         singleLinkedList.add(heroNode1);
         singleLinkedList.add(heroNode3);
 //        singleLinkedList.remove(heroNode2);
-        singleLinkedList.list();
-        System.out.println("链表中节点个数为："+singleLinkedList.size(singleLinkedList));
-        System.out.println("链表中倒数第k个节点为："+singleLinkedList.getLastK(singleLinkedList,4));
+//        singleLinkedList.list();
+//        System.out.println("链表中节点个数为："+singleLinkedList.size(singleLinkedList));
+//        System.out.println("链表中倒数第k个节点为："+singleLinkedList.getLastK(singleLinkedList,4));
         System.out.println("链表反转之后为：");
+        HeroNode reversal = singleLinkedList.reversal(singleLinkedList.getHeadNode());
+        System.out.println(reversal);
 //        singleLinkedList.reversal(singleLinkedList).list();
-        System.out.println("反向遍历链表：");
-        singleLinkedList.reversalPrintLink(singleLinkedList);
-        System.out.println("有序链表合并：");
-        SingleLinkedList singleLinkedList2 = new SingleLinkedList();
-        singleLinkedList.mergeList(singleLinkedList,singleLinkedList2).list();
+//        System.out.println("反向遍历链表：");
+//        singleLinkedList.reversalPrintLink(singleLinkedList);
+//        System.out.println("有序链表合并：");
+//        SingleLinkedList singleLinkedList2 = new SingleLinkedList();
+//        singleLinkedList.mergeList(singleLinkedList,singleLinkedList2).list();
 
 
     }
@@ -39,6 +41,10 @@ public class SingleLinkedListDemo {
 class SingleLinkedList{
     //定义头节点，不可随意改变，引导单链表生成
     private HeroNode headNode = new HeroNode(-1,"","");
+
+    public HeroNode getHeadNode() {
+        return headNode;
+    }
 
     //添加节点存储到链表的最后面
     public void add(HeroNode heroNode){
@@ -122,6 +128,9 @@ class SingleLinkedList{
             temp = temp.next;
         }
 
+
+
+
     }
     //修改某一个节点
     public void update(HeroNode heroNode){
@@ -170,25 +179,46 @@ class SingleLinkedList{
     }
 
     //单链表的反转
-    public SingleLinkedList reversal(SingleLinkedList list){
-        //声明指针节点
-        HeroNode tempNode = list.headNode;
-        SingleLinkedList reversalSingleLinkedList = new SingleLinkedList();
-//        reversalSingleLinkedList.headNode = tempNode;
-        while(true){
-            if(tempNode.next==null){
-                reversalSingleLinkedList.add(tempNode);
-                //原始链表移除此节点
-                list.remove(tempNode);
-                //重置指针节点的位置
-                tempNode = list.headNode;
-                if(list.size(list)==0){
-                    break;
-                }
-            }
-            tempNode = tempNode.next;
+    public HeroNode reversal(HeroNode headNode){
+
+        if(headNode==null || headNode.next==null){
+            return headNode;
         }
-        return reversalSingleLinkedList;
+
+        HeroNode newHead;
+        HeroNode currentNode = headNode;
+        HeroNode preNode = null;
+        while (true){
+            HeroNode tempNode = currentNode.next;
+            if(tempNode==null){
+                newHead = currentNode;
+                newHead.next = preNode;
+                break;
+            }
+            currentNode.next = preNode;
+            preNode = currentNode;
+            currentNode = tempNode;
+        }
+        return newHead;
+
+//        //声明指针节点
+//        HeroNode tempNode = list.headNode;
+//        SingleLinkedList reversalSingleLinkedList = new SingleLinkedList();
+////        reversalSingleLinkedList.headNode = tempNode;
+//        while(true){
+//            if(tempNode.next==null){
+//                reversalSingleLinkedList.add(tempNode);
+//                //原始链表移除此节点
+//                list.remove(tempNode);
+//                //重置指针节点的位置
+//                tempNode = list.headNode;
+//                if(list.size(list)==0){
+//                    break;
+//                }
+//            }
+//            tempNode = tempNode.next;
+//        }
+//        return reversalSingleLinkedList;
     }
 
     //链表反向遍历
@@ -241,13 +271,13 @@ class HeroNode{
     }
 
 
-
     @Override
     public String toString() {
-        return "TreeNode{" +
+        return "HeroNode{" +
                 "no=" + no +
                 ", heroName='" + heroName + '\'' +
                 ", anotherName='" + anotherName + '\'' +
+                ", next=" + next +
                 '}';
     }
 }

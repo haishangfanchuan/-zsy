@@ -16,10 +16,11 @@ public class insertSort {
         Date date = new Date();
         String format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(date);
         System.out.println(format);
-        int[] array = new int[100000];
-        for (int i = 0; i <10000 ; i++) {
-            array[i] = new Random().nextInt(9999999);
-        }
+//        int[] array = new int[10000000];
+//        for (int i = 0; i <10000000 ; i++) {
+//            array[i] = new Random().nextInt(9999999);
+//        }
+        int[] array = new int[]{8,3,7,9,0,5,1,4,2,6};
         System.out.println(Arrays.toString(insetSort(array)));
         System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
     }
@@ -31,19 +32,19 @@ public class insertSort {
         //2、风别与前面的数比较，知道找到插入的位置
         for (int i = 1; i <array.length ; i++) {
             //被比数的下标
-            int index = i-1;
+//            int index = i-1;
             //先保存比较数
             int number = array[i];
             //1、保证数不越界
             //1、找到需要停止比较的下标位置+1
-            while(i>=0 && index>=0 &&number < array[index]){
+            while(i -1 >=0  && number < array[i]){
                 //被比较数向后移动一位
-                array[index+1] = array[index];
-                index--;
+                array[i-1] = array[i];
+//                index--;
                 i--;
             }
             //退出while循环找到插入的位置 index
-            array[index+1] = number;
+            array[i] = number;
         }
         return array;
     }

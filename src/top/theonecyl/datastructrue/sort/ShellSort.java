@@ -12,15 +12,15 @@ import java.util.Random;
  */
 public class ShellSort {
     public static void main(String[] args) {
-//        int[] array = new int[]{8,3,7,9,0,5,1,4,2,6};
+        int[] array = new int[]{8,3,7,9,0,5,1,4,2,6};
         Date date = new Date();
         String format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(date);
         System.out.println(format);
-        int[] array = new int[100000];
-        for (int i = 0; i <10000 ; i++) {
-            array[i] = new Random().nextInt(9999999);
-        }
-        Arrays.toString(shellSort(array));
+//        int[] array = new int[1000000];
+//        for (int i = 0; i <array.length ; i++) {
+//            array[i] = new Random().nextInt(9999999);
+//        }
+        System.out.println(Arrays.toString(shellSort(array)));
         System.out.println(new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date()));
     }
 

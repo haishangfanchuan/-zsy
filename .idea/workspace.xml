@@ -1,16 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9511283f-b0fd-49fe-8f6e-fb2e0ea4a07a" name="Default" comment="2020-07-26 递归和二叉树">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryTree.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/HeroNode.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/HeroNode.class" />
-      <change beforePath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java" afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/asm_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/adapter/ClassAdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/adapter/InterfaceAdapterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/factory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/factory/FacadeModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/factory/OrderPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/factory/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/observe/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/observe/Observe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/observe/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/observe/WanYi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/observe/WeatherCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/observe/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/CglibProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/DynamicProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/StaticProxyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/aopdemo/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/aopdemo/IMyAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/aopdemo/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/aopdemo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/asm-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/asm-commons-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/asm-tree-3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/proxy/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/strategy/StrategyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_patterns/strategy/StrategyDemo2_share.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daxi/TestDemo0915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daxi/合并时间区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daxi/最小惩罚.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/daxi/缩写校验.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hengsheng/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hengsheng/判断子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hengsheng/质数分解.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/N个房间N把钥匙.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/不做加减乘除的加法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/丑数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/二叉搜索树与双向链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/二叉树中的和为某一值的路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/二叉树的后序遍历序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/二叉树的镜像.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/二维数组中的查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/从头到尾打印链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/包含min函数的栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/变态跳台阶.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/合并排序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/复杂链表的复制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/奇数位于偶数前面.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/字符串的排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/孩子们的游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/把字符串转为整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/数组中出现超过一半的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/数组中重复的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/整数中1出现的次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/斐波那契數列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/旋转的最小数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/替换空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/最小的K个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/栈的压入弹出.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/用两个栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/矩形覆盖.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/跳台阶.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/连续字数组的最大和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/重建二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/链表中倒数第k个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jiangzhi_offer/顺时针打印矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/Demo0903.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/Demo0904.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/Demo0906.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/PowXN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/comment/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/comment/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/下一个排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/两两交换链表中的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/两个栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/两数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/二叉搜索树中的众数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/二叉树的中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/二叉树的层平均值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/二叉树的层次遍历2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/二叉树的最小深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/从中序与后序遍历序列构造二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/全排列2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/删除排序数组中的重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/删除链表的倒数第N个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/前K个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/合并两个有序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/填充每个节点的下一个右侧节点指针2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/奇数位于偶数前面.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/字母异位词分组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/字符串相乘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/实现strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/所有奇数长度子数组的和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/打印质数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/把二叉搜索树转换为累加树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/括号生成.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/按奇偶排序数组2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/搜索旋转排序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/数组反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/数组换位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/旋转图像.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/无重复字符的最长子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/最接近的三数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/最长不含重复字符的子字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/最长回文子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/独一无二的出现次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/环形链表2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/电话号码的字母组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/画线条.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/移除元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/第k个排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/第一个只出现一次的字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/组合总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/组合总和2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/组合总和3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/螺旋矩阵2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/视频拼接.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/路径总和2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/连续元素序列的长度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/letcode100/顺时针打印矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/youzan/字符串旋转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/youzan/把字符串转换成整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/youzan/数组移动跳跃.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/单词搜索.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/最后一个单词的长度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/最大子序和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/LRU缓存.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/comment/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/comment/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/二分查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/判断给定的链表中是否有环.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/反转字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/合并链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/寻找第K大数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/旋转数组的最小数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/树的前后中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/调整数组顺序使奇数位于偶数前面.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niucode/链表中倒数第K个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewIO/ReviewIoDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simaite/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threaddemo/JoinDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threaddemo/Test0831.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threaddemo/lock/ReenTrantLockDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/graph/GraphOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/hensheng/HsTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/hensheng/HsTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/queue/RingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/BubblingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/HeroNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/SingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/sort/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/sort/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/sort/insertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/top/theonecyl/datastructrue/sort/insertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/insertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/insertSort.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +212,14 @@
     <SUITE FILE_PATH="coverage/LeetCode$DoubleLinkedListDemo.coverage" NAME="DoubleLinkedListDemo Coverage Results" MODIFIED="1595053675269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>top.theonecyl.datastructrue.linklisted.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$.coverage" NAME="所有奇数长度子数组的和 Coverage Results" MODIFIED="1600534727999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.letcode100.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode$ShellSort.coverage" NAME="ShellSort Coverage Results" MODIFIED="1595518092731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>top.theonecyl.datastructrue.sort.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/LeetCode$BinaryDemo.coverage" NAME="BinaryDemo Coverage Results" MODIFIED="1595751987708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>top.theonecyl.datastructrue.tree.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/LeetCode$SingleLinkedListDemo.coverage" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1594952804993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>top.theonecyl.datastructrue.linklisted.*</FILTER>
@@ -39,262 +234,29 @@
       <FILTER>leetcode.*</FILTER>
     </SUITE>
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayStackDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/ArrayStackDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#1219#1220#0" expanded="true" />
-                <element signature="e#1269#1270#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BubblingSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/BubblingSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShellSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/ShellSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryDemo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/BinarySearch/BinaryDemo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-495">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-              <folding>
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#725#726#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#314#315#0" expanded="true" />
-                <element signature="e#830#831#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#900#901#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#977#978#0" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecursionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/recursion/RecursionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>compare</find>
-      <find>add</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/leetcode/tow_sum.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Test.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/稀疏数组搜索.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/矩形重叠.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/数组中两元素的最大乘积.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Bigram.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/寻找重复数.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/demo01.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Demo01.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Demo02.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LRUDemo.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LRUCache.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/EagerSingleton.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Demo03.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0628/数组中两元素的最大乘积.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0629/爱生气的书店老板.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0630/检查替换后的词是否有效.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0701/只出现一次的数字.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0701/最小基因变化.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0701/森林中的兔子.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/day0701/根到叶路径上的不足节点.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/tree/test.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/tree/二叉树中的列表.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedList.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/DoubleLinkedListDemo.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/Josephu.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/JosephuDemo.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/LinkedListStackDemo.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/ArrayStackDemo.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/recursion/RecursionTest.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/栈模拟多数运算.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/recursion/Queen8.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/BubblingSort.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/SelectSort.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/insertSort.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/S.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/QueckSort.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/BinarySearch/BinaryDemo1.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/HeroNode.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/PreorderTree.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryDemo.java" />
-        <option value="$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/TreeNode.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="E:/Maven/apache-maven-3.5.2" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.5.2" />
       </MavenGeneralSettings>
     </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="311" />
-    <option name="y" value="57" />
-    <option name="width" value="1471" />
-    <option name="height" value="890" />
-  </component>
+  <component name="ProjectId" id="1l97oS2qD1ohsyULnUoMVS8mMcW" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -312,81 +274,32 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructrue" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
-    <property name="android.sdk.path" value="E:/sdk/sdk1111" />
+    <property name="SearchEverywhereHistoryKey" value="AbstractQ&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedLongSynchronizer&#10;com&#9;PSI&#9;JAVA://com.sun.javafx.css.Combinator" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../sdk/sdk1111" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\LeetCode\src\Design_patterns\proxy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\LeetCode\src\Design_patterns\proxy" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryDemo">
+  <component name="RunManager" selected="应用程序.反转链表">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -394,147 +307,98 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="数组中两元素的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="独一无二的出现次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.独一无二的出现次数" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.day0628.*" />
+          <option name="PATTERN" value="leetcode.letcode100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.day0628.数组中两元素的最大乘积" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="BinaryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niucode.反转链表" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.theonecyl.datastructrue.tree.*" />
+          <option name="PATTERN" value="niucode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.tree.BinaryDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="BinaryDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simaite.Demo7" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.theonecyl.datastructrue.BinarySearch.*" />
+          <option name="PATTERN" value="simaite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.BinarySearch.BinaryDemo1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="Demo9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simaite.Demo9" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="top.theonecyl.datastructrue.sort.*" />
+          <option name="PATTERN" value="simaite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.sort.QuickSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-    </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="top.theonecyl.datastructrue.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.sort.ShellSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SingleLinkedListDemo" type="Application" factoryName="Application" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.linklisted.SingleLinkedListDemo" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.theonecyl.datastructrue.linklisted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.linklisted.SingleLinkedListDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="根到叶路径上的不足节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+    <configuration name="StaticProxyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_patterns.proxy.StaticProxyDemo" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.day0701.*" />
+          <option name="PATTERN" value="Design_patterns.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.day0701.根到叶路径上的不足节点" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="第一个只出现一次的字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="leetcode.day0701.*" />
+          <option name="PATTERN" value="leetcode.letcode100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.day0701.只出现一次的数字" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.第一个只出现一次的字符" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -565,71 +429,14 @@
       <module name="LeetCode" />
       <envs />
     </configuration>
-    <configuration name="爱生气的书店老板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.day0629.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.day0629.爱生气的书店老板" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-    </configuration>
-    <configuration name="森林中的兔子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.day0701.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.day0701.森林中的兔子" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-    </configuration>
-    <configuration name="寻找重复数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="最大子序和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.寻找重复数" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="LeetCode" />
-      <envs />
-    </configuration>
-    <configuration name="寻找重复数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="leetcode.day0628.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="leetcode.day0628.寻找重复数" />
+      <option name="MAIN_CLASS_NAME" value="leetcode.最大子序和" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -649,6 +456,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="leetcode.day0629.爱生气的书店老板" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="二叉树的层平均值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.二叉树的层平均值" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -679,6 +505,1036 @@
       <module name="LeetCode" />
       <envs />
     </configuration>
+    <configuration name="寻找重复数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.寻找重复数" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="只出现一次的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.day0701.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.day0701.只出现一次的数字" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="单词搜索" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.单词搜索" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="跳台阶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.跳台阶" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="调整数组顺序使奇数位于偶数前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niucode.调整数组顺序使奇数位于偶数前面" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niucode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="根到叶路径上的不足节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.day0701.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.day0701.根到叶路径上的不足节点" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="连续元素序列的长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.连续元素序列的长度" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="有效的括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.有效的括号" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="合并时间区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="daxi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="daxi.合并时间区间" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="搜索旋转排序数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.搜索旋转排序数组" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.三数之和" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="数组换位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.数组换位置" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.最长公共前缀" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="质数分解" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hengsheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hengsheng.质数分解" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.组合" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="二叉树的中序遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.二叉树的中序遍历" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.二维数组中的查找" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="奇数位于偶数前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.奇数位于偶数前面" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="缩写校验" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="daxi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="daxi.缩写校验" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="孩子们的游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.孩子们的游戏" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="最长不含重复字符的子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.最长不含重复字符的子字符串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="调整数组顺序使奇数位于偶数前面" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niucode.调整数组顺序使奇数位于偶数前面" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niucode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="顺时针打印矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.顺时针打印矩阵" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="丑数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.丑数" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="变态跳台阶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.变态跳台阶" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="两个栈实现队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.两个栈实现队列" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="niucode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="niucode.二分查找" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="爱生气的书店老板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.day0629.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.day0629.爱生气的书店老板" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="旋转数组的最小数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niucode.旋转数组的最小数" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niucode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二叉树的镜像" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.二叉树的镜像" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="数组中两元素的最大乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.day0628.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.day0628.数组中两元素的最大乘积" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="栈的压入弹出" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.栈的压入弹出" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="两两交换链表中的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.两两交换链表中的节点" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.反转链表" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.三数之和" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="顺时针打印矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.顺时针打印矩阵" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="字母异位词分组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.字母异位词分组" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="全排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.全排列" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="重建二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.重建二叉树" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="最长不含重复字符的子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.最长不含重复字符的子字符串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="判断子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="hengsheng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="hengsheng.判断子串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.两数之和" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="寻找重复数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.day0628.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.day0628.寻找重复数" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="下一个排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.下一个排列" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="缩写校验" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="daxi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="daxi.缩写校验" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="缩写校验" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="daxi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="daxi.缩写校验" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="二叉搜索树中的众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.二叉搜索树中的众数" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.最长公共前缀" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.无重复字符的最长子串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="变态跳台阶" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.变态跳台阶" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.最长回文子串" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="连续字数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.连续字数组的最大和" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.数组中重复的数字" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="在排序数组中查找元素的第一个和最后一个位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.在排序数组中查找元素的第一个和最后一个位置" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.字符串的排列" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
     <configuration name="森林中的兔子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -698,28 +1554,14 @@
       <module name="LeetCode" />
       <envs />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration name="insertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="合并时间区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="top.theonecyl.datastructrue.sort.*" />
+          <option name="PATTERN" value="daxi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="top.theonecyl.datastructrue.sort.insertSort" />
+      <option name="MAIN_CLASS_NAME" value="daxi.合并时间区间" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -731,87 +1573,122 @@
       <module name="LeetCode" />
       <envs />
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+    <configuration name="森林中的兔子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.day0701.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.day0701.森林中的兔子" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="LeetCode" />
       <envs />
-      <patterns />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
+    <configuration name="电话号码的字母组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="leetcode.letcode100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="leetcode.letcode100.电话号码的字母组合" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="jiangzhi_offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="jiangzhi_offer.替换空格" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Application.SingleLinkedListDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.insertSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ShellSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.QuickSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinaryDemo1" />
-      <item index="5" class="java.lang.String" itemvalue="Application.BinaryDemo" />
+    <list>
+      <item itemvalue="应用程序.SingleLinkedListDemo" />
+      <item itemvalue="应用程序.Demo7" />
+      <item itemvalue="应用程序.Demo9" />
+      <item itemvalue="应用程序.StaticProxyDemo" />
+      <item itemvalue="应用程序.独一无二的出现次数" />
+      <item itemvalue="应用程序.反转链表" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinaryDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinaryDemo1" />
-        <item index="2" class="java.lang.String" itemvalue="Application.QuickSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ShellSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.insertSort" />
+      <list>
+        <item itemvalue="应用程序.反转链表" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -850,7 +1727,101 @@
       <workItem from="1595506601089" duration="9906000" />
       <workItem from="1595519020425" duration="1252000" />
       <workItem from="1595596440664" duration="5391000" />
-      <workItem from="1595650780513" duration="14455000" />
+      <workItem from="1595650780513" duration="14499000" />
+      <workItem from="1595735042141" duration="13334000" />
+      <workItem from="1595854021046" duration="3957000" />
+      <workItem from="1595941806897" duration="3479000" />
+      <workItem from="1596030637473" duration="6977000" />
+      <workItem from="1596115602657" duration="903000" />
+      <workItem from="1596252667283" duration="744000" />
+      <workItem from="1597557798668" duration="3881000" />
+      <workItem from="1597588119994" duration="967000" />
+      <workItem from="1597936267493" duration="3136000" />
+      <workItem from="1598072731238" duration="3735000" />
+      <workItem from="1598094864396" duration="5270000" />
+      <workItem from="1598158961197" duration="9239000" />
+      <workItem from="1598186286689" duration="12000" />
+      <workItem from="1598770897349" duration="716000" />
+      <workItem from="1598882615260" duration="214000" />
+      <workItem from="1599049032329" duration="8236000" />
+      <workItem from="1599098054819" duration="4716000" />
+      <workItem from="1599104843360" duration="13170000" />
+      <workItem from="1599217419190" duration="4909000" />
+      <workItem from="1599230103731" duration="1456000" />
+      <workItem from="1599285980688" duration="3881000" />
+      <workItem from="1599300422408" duration="1030000" />
+      <workItem from="1599302948996" duration="10694000" />
+      <workItem from="1599314764606" duration="6284000" />
+      <workItem from="1599362776216" duration="24000" />
+      <workItem from="1599371424832" duration="4954000" />
+      <workItem from="1599388818428" duration="14654000" />
+      <workItem from="1599454255394" duration="19459000" />
+      <workItem from="1599537370419" duration="7167000" />
+      <workItem from="1599549730410" duration="4256000" />
+      <workItem from="1599560645280" duration="226000" />
+      <workItem from="1599568236393" duration="861000" />
+      <workItem from="1599625105463" duration="9546000" />
+      <workItem from="1599711678537" duration="20493000" />
+      <workItem from="1599747582130" duration="2134000" />
+      <workItem from="1599797188247" duration="16281000" />
+      <workItem from="1599835075569" duration="57000" />
+      <workItem from="1599838853673" duration="403000" />
+      <workItem from="1599885209068" duration="8791000" />
+      <workItem from="1599921695265" duration="4728000" />
+      <workItem from="1599971961125" duration="9168000" />
+      <workItem from="1600007035591" duration="4388000" />
+      <workItem from="1600067243598" duration="17545000" />
+      <workItem from="1600098066787" duration="1772000" />
+      <workItem from="1600149957632" duration="3622000" />
+      <workItem from="1600153839655" duration="653000" />
+      <workItem from="1600172146734" duration="2889000" />
+      <workItem from="1600183812001" duration="699000" />
+      <workItem from="1600233628970" duration="7879000" />
+      <workItem from="1600259015516" duration="9332000" />
+      <workItem from="1600318152730" duration="4887000" />
+      <workItem from="1600332269411" duration="371000" />
+      <workItem from="1600339585223" duration="53000" />
+      <workItem from="1600405243850" duration="8704000" />
+      <workItem from="1600432039306" duration="696000" />
+      <workItem from="1600496800374" duration="5975000" />
+      <workItem from="1600509952967" duration="1233000" />
+      <workItem from="1600521179824" duration="12767000" />
+      <workItem from="1600575910167" duration="1814000" />
+      <workItem from="1600669607009" duration="1579000" />
+      <workItem from="1600696781868" duration="12751000" />
+      <workItem from="1600749984748" duration="36000" />
+      <workItem from="1600750955761" duration="3811000" />
+      <workItem from="1600873528622" duration="305000" />
+      <workItem from="1600873862267" duration="945000" />
+      <workItem from="1600874831281" duration="1748000" />
+      <workItem from="1600937572292" duration="3019000" />
+      <workItem from="1600953099295" duration="3450000" />
+      <workItem from="1601011277229" duration="891000" />
+      <workItem from="1601015637219" duration="771000" />
+      <workItem from="1601019206408" duration="40000" />
+      <workItem from="1601020796851" duration="661000" />
+      <workItem from="1601094467268" duration="5068000" />
+      <workItem from="1601226648051" duration="3767000" />
+      <workItem from="1601268388625" duration="5581000" />
+      <workItem from="1601289689898" duration="1084000" />
+      <workItem from="1601292116343" duration="983000" />
+      <workItem from="1601300719954" duration="2093000" />
+      <workItem from="1601389146131" duration="800000" />
+      <workItem from="1601465111702" duration="8578000" />
+      <workItem from="1602313570309" duration="1926000" />
+      <workItem from="1602996363418" duration="1000" />
+      <workItem from="1603069744283" duration="43000" />
+      <workItem from="1603533605356" duration="2391000" />
+      <workItem from="1603674969371" duration="16000" />
+      <workItem from="1603885060526" duration="3862000" />
+      <workItem from="1604655764614" duration="2008000" />
+      <workItem from="1605150466871" duration="1090000" />
+      <workItem from="1606997630682" duration="364000" />
+      <workItem from="1607074337770" duration="1839000" />
+      <workItem from="1607306060575" duration="881000" />
+      <workItem from="1607306976025" duration="493000" />
+      <workItem from="1607417715367" duration="4956000" />
+      <workItem from="1607567455399" duration="1901000" />
     </task>
     <task id="LOCAL-00001" summary="2020-07-24快速排序">
       <created>1595597503459</created>
@@ -880,78 +1851,34 @@
       <option name="project" value="LOCAL" />
       <updated>1595694183934</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2020-07-26 递归和二叉树">
+      <created>1595694280208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595694280208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2020-07-28 更新平衡二叉树">
+      <created>1595944345764</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595944345764</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187686000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36041668" sideWeight="0.5021322" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1641791" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36600626" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18603411" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1673774" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49009386" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36041668" sideWeight="0.5021322" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1641791" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1673774" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38541666" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31354168" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21481876" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -963,13 +1890,66 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020-07-24二分查找" />
     <MESSAGE value="2020-07-24快速排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-07-24快速排序" />
+    <MESSAGE value="2020-07-26 递归和二叉树" />
+    <MESSAGE value="2020-07-28 更新平衡二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-07-28 更新平衡二叉树" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom" timestamp="1607569121790">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607569121790" />
+    <state width="1877" height="373" key="GridCell.Tab.0.center" timestamp="1607569121789">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607569121789" />
+    <state width="1877" height="373" key="GridCell.Tab.0.left" timestamp="1607569121789">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607569121789" />
+    <state width="1877" height="373" key="GridCell.Tab.0.right" timestamp="1607569121790">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607569121790" />
+    <state width="1877" height="373" key="GridCell.Tab.1.bottom" timestamp="1607569122006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607569122006" />
+    <state width="1877" height="373" key="GridCell.Tab.1.center" timestamp="1607569122006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607569122006" />
+    <state width="1877" height="373" key="GridCell.Tab.1.left" timestamp="1607569122006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607569122006" />
+    <state width="1877" height="373" key="GridCell.Tab.1.right" timestamp="1607569122006">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="373" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607569122006" />
+    <state x="698" y="257" width="524" height="536" key="find.popup" timestamp="1606997679327">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="698" y="257" width="524" height="536" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606997679327" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606997676140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1606997676140" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -991,14 +1971,6 @@
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/QuickSort.java</url>
-          <line>23</line>
-          <properties class="top.theonecyl.datastructrue.sort.QuickSort" method="quickSort">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/BinarySearch/BinaryDemo1.java</url>
           <line>38</line>
           <properties class="top.theonecyl.datastructrue.BinarySearch.BinaryDemo1" method="getNumAllIndex">
@@ -1016,14 +1988,551 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/TreeNode.java</url>
-          <line>55</line>
-          <properties class="top.theonecyl.datastructrue.tree.TreeNode" method="addNode">
+          <line>217</line>
+          <properties class="top.theonecyl.datastructrue.tree.TreeNode" method="leftRotate">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="144" />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/graph/GraphOfArray.java</url>
+          <line>54</line>
+          <properties class="top.theonecyl.datastructrue.graph.GraphOfArray" method="isAccessOfDfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java</url>
+          <line>181</line>
+          <properties class="top.theonecyl.datastructrue.linklisted.SingleLinkedList" method="reversal">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/最长回文子串.java</url>
+          <line>23</line>
+          <properties class="leetcode.letcode100.最长回文子串" method="longestPalindrome">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/连续元素序列的长度.java</url>
+          <line>10</line>
+          <properties class="leetcode.letcode100.连续元素序列的长度" method="longestConsecutive">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/最长公共前缀.java</url>
+          <line>29</line>
+          <properties class="leetcode.letcode100.最长公共前缀" method="longestCommonPrefix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/三数之和.java</url>
+          <line>23</line>
+          <properties class="leetcode.letcode100.三数之和" method="threeSum">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/电话号码的字母组合.java</url>
+          <line>17</line>
+          <properties class="leetcode.letcode100.电话号码的字母组合" method="letterCombinations">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/打印质数.java</url>
+          <line>14</line>
+          <properties class="leetcode.letcode100.打印质数" method="printZhishu">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/数组换位置.java</url>
+          <line>25</line>
+          <properties class="leetcode.letcode100.数组换位置" method="transArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/ShellSort.java</url>
+          <line>27</line>
+          <properties class="top.theonecyl.datastructrue.sort.ShellSort" method="shellSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/insertSort.java</url>
+          <line>29</line>
+          <properties class="top.theonecyl.datastructrue.sort.insertSort" method="insetSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/BubblingSort.java</url>
+          <line>16</line>
+          <properties class="top.theonecyl.datastructrue.review_sort.BubblingSort" method="bubblingSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/ShellSort.java</url>
+          <line>18</line>
+          <properties class="top.theonecyl.datastructrue.review_sort.ShellSort" method="shellSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/InsertSort.java</url>
+          <line>18</line>
+          <properties class="top.theonecyl.datastructrue.review_sort.InsertSort" method="insertSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/review_sort/QuickSort.java</url>
+          <line>20</line>
+          <properties class="top.theonecyl.datastructrue.review_sort.QuickSort" method="quickSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/QuickSort.java</url>
+          <line>23</line>
+          <properties class="top.theonecyl.datastructrue.sort.QuickSort" method="quickSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/niucode/反转链表.java</url>
+          <line>28</line>
+          <properties class="niucode.反转链表" method="ReverseList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/niucode/二分查找.java</url>
+          <line>33</line>
+          <properties class="niucode.二分查找" method="upper_bound_">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/有效的括号.java</url>
+          <line>45</line>
+          <properties class="leetcode.letcode100.有效的括号" method="isValid">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/两两交换链表中的节点.java</url>
+          <line>35</line>
+          <properties class="leetcode.letcode100.两两交换链表中的节点" method="swapPairs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/删除排序数组中的重复项.java</url>
+          <line>38</line>
+          <properties class="leetcode.letcode100.删除排序数组中的重复项" method="removeDuplicates">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/移除元素.java</url>
+          <line>40</line>
+          <properties class="leetcode.letcode100.移除元素" method="removeElement">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/下一个排列.java</url>
+          <line>30</line>
+          <properties class="leetcode.letcode100.下一个排列" method="nextPermutation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/搜索旋转排序数组.java</url>
+          <line>32</line>
+          <properties class="leetcode.letcode100.搜索旋转排序数组" method="search">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/在排序数组中查找元素的第一个和最后一个位置.java</url>
+          <line>32</line>
+          <properties class="leetcode.letcode100.在排序数组中查找元素的第一个和最后一个位置" method="searchRange">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/全排列.java</url>
+          <line>39</line>
+          <properties class="leetcode.letcode100.全排列" method="permute">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/组合总和3.java</url>
+          <line>43</line>
+          <properties class="leetcode.letcode100.组合总和3" method="combination">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/全排列2.java</url>
+          <line>35</line>
+          <properties class="leetcode.letcode100.全排列2" method="permute">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/旋转图像.java</url>
+          <line>61</line>
+          <properties class="leetcode.letcode100.旋转图像" method="rotate">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/二叉树的层平均值.java</url>
+          <line>37</line>
+          <properties class="leetcode.letcode100.二叉树的层平均值" method="averageOfLevels">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/PowXN.java</url>
+          <line>29</line>
+          <properties class="leetcode.letcode100.PowXN" method="myPow">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/第一个只出现一次的字符.java</url>
+          <line>26</line>
+          <properties class="leetcode.letcode100.第一个只出现一次的字符" method="firstUniqChar">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/最大子序和.java</url>
+          <line>26</line>
+          <properties class="leetcode.最大子序和" method="maxSubArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hengsheng/判断子串.java</url>
+          <line>15</line>
+          <properties class="hengsheng.判断子串" method="subStrinExit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/二叉树的中序遍历.java</url>
+          <line>22</line>
+          <properties class="leetcode.letcode100.二叉树的中序遍历" method="inorderTraversal">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/顺时针打印矩阵.java</url>
+          <line>31</line>
+          <properties class="leetcode.letcode100.顺时针打印矩阵" method="spiralOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/daxi/缩写校验.java</url>
+          <line>34</line>
+          <properties class="daxi.缩写校验" method="valid">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/螺旋矩阵2.java</url>
+          <line>26</line>
+          <properties class="leetcode.letcode100.螺旋矩阵2" method="generateMatrix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/第k个排列.java</url>
+          <line>65</line>
+          <properties class="leetcode.letcode100.第k个排列" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/最长不含重复字符的子字符串.java</url>
+          <line>35</line>
+          <properties class="leetcode.letcode100.最长不含重复字符的子字符串" method="lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/二维数组中的查找.java</url>
+          <line>24</line>
+          <properties class="jiangzhi_offer.二维数组中的查找" method="Find">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/变态跳台阶.java</url>
+          <line>12</line>
+          <properties class="jiangzhi_offer.变态跳台阶" method="JumpFloorII">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/奇数位于偶数前面.java</url>
+          <line>17</line>
+          <properties class="jiangzhi_offer.奇数位于偶数前面" method="reOrderArray">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/反转链表.java</url>
+          <line>23</line>
+          <properties class="jiangzhi_offer.反转链表" method="ReverseList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/合并排序链表.java</url>
+          <line>27</line>
+          <properties class="jiangzhi_offer.合并排序链表" method="Merge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/二叉树的镜像.java</url>
+          <line>61</line>
+          <properties class="jiangzhi_offer.二叉树的镜像" method="printTreeCenXu">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/栈的压入弹出.java</url>
+          <line>20</line>
+          <properties class="jiangzhi_offer.栈的压入弹出" method="IsPopOrder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/所有奇数长度子数组的和.java</url>
+          <line>46</line>
+          <properties class="leetcode.letcode100.所有奇数长度子数组的和" method="sumOddLengthSubarrays">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/把二叉搜索树转换为累加树.java</url>
+          <line>35</line>
+          <properties class="leetcode.letcode100.把二叉搜索树转换为累加树" method="convertBST">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/字符串的排列.java</url>
+          <line>30</line>
+          <properties class="jiangzhi_offer.字符串的排列" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/数组中出现超过一半的数字.java</url>
+          <line>16</line>
+          <properties class="jiangzhi_offer.数组中出现超过一半的数字" method="MoreThanHalfNum_Solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/最小的K个数.java</url>
+          <line>20</line>
+          <properties class="jiangzhi_offer.最小的K个数" method="GetLeastNumbers_Solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/整数中1出现的次数.java</url>
+          <line>17</line>
+          <properties class="jiangzhi_offer.整数中1出现的次数" method="NumberOf1Between1AndN_Solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/丑数.java</url>
+          <line>13</line>
+          <properties class="jiangzhi_offer.丑数" method="GetUglyNumber_Solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/二叉搜索树中的众数.java</url>
+          <line>24</line>
+          <properties class="leetcode.letcode100.二叉搜索树中的众数" method="findMode">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/二叉搜索树中的众数.java</url>
+          <line>43</line>
+          <properties class="leetcode.letcode100.二叉搜索树中的众数" method="fun">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/把字符串转为整数.java</url>
+          <line>29</line>
+          <properties class="jiangzhi_offer.把字符串转为整数" method="StrToInt">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/填充每个节点的下一个右侧节点指针2.java</url>
+          <line>28</line>
+          <properties class="leetcode.letcode100.填充每个节点的下一个右侧节点指针2" method="connect">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/jiangzhi_offer/孩子们的游戏.java</url>
+          <line>24</line>
+          <properties class="jiangzhi_offer.孩子们的游戏" method="LastRemaining_Solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/daxi/合并时间区间.java</url>
+          <line>47</line>
+          <properties class="daxi.合并时间区间" method="merge">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/simaite/Demo2.java</url>
+          <line>12</line>
+          <properties class="simaite.Demo2" method="method">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/simaite/Demo4.java</url>
+          <line>12</line>
+          <properties class="simaite.Demo4" method="method">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/simaite/Demo7.java</url>
+          <line>14</line>
+          <properties class="simaite.Demo7" method="method">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/simaite/Demo9.java</url>
+          <line>41</line>
+          <properties class="simaite.ProxyDemo" method="getCompany">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/letcode100/独一无二的出现次数.java</url>
+          <line>39</line>
+          <properties class="leetcode.letcode100.独一无二的出现次数" method="uniqueOccurrences">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/niucode/反转链表.java</url>
+          <line>40</line>
+          <properties class="niucode.反转链表" method="ReverseList">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niucode/旋转数组的最小数.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niucode/调整数组顺序使奇数位于偶数前面.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="274" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="145" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1034,420 +2543,10 @@
       </configuration>
     </watches-manager>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="53" column="68" lean-forward="false" selection-start-line="53" selection-start-column="67" selection-end-line="53" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="271" column="6" lean-forward="false" selection-start-line="271" selection-start-column="6" selection-end-line="271" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0629.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/Bigram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/Demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/Demo03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/EagerSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/tow_sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="31" column="46" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0701.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0630/检查替换后的词是否有效.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0701/根到叶路径上的不足节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="54" column="50" lean-forward="false" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/数组中两元素的最大乘积.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0628/寻找重复数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/二叉树中的列表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1917">
-          <caret line="75" column="6" lean-forward="false" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0701/只出现一次的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0701/最小基因变化.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3726">
-          <caret line="164" column="11" lean-forward="false" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="140" column="13" lean-forward="true" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-256">
-          <caret line="149" column="28" lean-forward="true" selection-start-line="149" selection-start-column="28" selection-end-line="149" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="112" column="33" lean-forward="false" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513">
-          <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="969" column="25" lean-forward="false" selection-start-line="969" selection-start-column="25" selection-end-line="969" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0701/森林中的兔子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/SingleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="230" column="6" lean-forward="false" selection-start-line="230" selection-start-column="6" selection-end-line="230" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/day0629/爱生气的书店老板.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/DoubleLinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/linklisted/JosephuDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3348">
-          <caret line="124" column="42" lean-forward="false" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
-          <folding>
-            <element signature="e#4961#4962#0" expanded="false" />
-            <element signature="e#4989#4990#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/jre/lib/ext/access-bridge-64.jar!/com/sun/java/accessibility/AccessBridge.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="134" column="50" lean-forward="false" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="255" column="62" lean-forward="true" selection-start-line="252" selection-start-column="7" selection-end-line="255" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/JDK/jdk_8/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="66" column="13" lean-forward="false" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/LinkedListStackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="61" column="9" lean-forward="false" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-          <folding>
-            <element signature="method#push#0;class#LinkedListStack#0" expanded="false" />
-            <element signature="class#StackNode#0" expanded="false" />
-            <element signature="e#1685#1686#0" expanded="false" />
-            <element signature="e#1715#1716#0" expanded="false" />
-            <element signature="e#1742#1743#0" expanded="false" />
-            <element signature="e#1768#1769#0" expanded="false" />
-            <element signature="e#1803#1804#0" expanded="false" />
-            <element signature="e#1833#1834#0" expanded="false" />
-            <element signature="e#1867#1868#0" expanded="false" />
-            <element signature="e#1894#1895#0" expanded="false" />
-            <element signature="e#1937#1938#0" expanded="false" />
-            <element signature="e#1969#1970#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/recursion/Queen8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="10" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/insertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="23" column="91" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="23" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="20" column="91" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/栈模拟多数运算.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3942">
-          <caret line="150" column="9" lean-forward="false" selection-start-line="150" selection-start-column="9" selection-end-line="150" selection-end-column="9" />
-          <folding>
-            <element signature="e#1721#1722#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="false" />
-            <element signature="e#2310#2311#0" expanded="false" />
-            <element signature="e#2363#2364#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/stack/ArrayStackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#1219#1220#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/BubblingSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/recursion/RecursionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/BinarySearch/BinaryDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#830#831#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/BinaryDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/top/theonecyl/datastructrue/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$.ic" NAME="反转链表 Coverage Results" MODIFIED="1607568415424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>niucode.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
@@ -1526,6 +2625,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>asm-3.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
